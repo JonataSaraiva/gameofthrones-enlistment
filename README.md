@@ -12,6 +12,6 @@ Stack of this app:
 
 ### First stack case
 At class [StarkEnlistment](https://github.com/JonataSaraiva/gameofthrones-enlistment/blob/main/src/main/kotlin/com/own/gameofthronesenlistment/enlistment/service/StarkEnlistment.kt) we can see a strategy request using Kotlin Courotines + Feign Client,
-coroutines are quite lightway and we were able to do dozens of request in parallel with no problems. 
+coroutines are a really light and powerful choose and we were able to do dozens of request in parallel with no problems. 
 
 
